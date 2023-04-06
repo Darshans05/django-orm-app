@@ -21,7 +21,7 @@ Start the Django server and head over to admin page. Using the admin interface, 
 
 ## PROGRAM
 ##File:Models.py:
-```
+``` python
 from django.db import models
 from django.contrib import admin
 
@@ -39,7 +39,7 @@ class StudentAdmin(admin.ModelAdmin):
     
 ```
 ##File:Admin.py:
-```
+``` python
 from django.contrib import admin
 from .models import Student,StudentAdmin
 
