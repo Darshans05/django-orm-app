@@ -52,7 +52,7 @@ admin.site.register(Student,StudentAdmin)
 ![web django-admin users](https://user-images.githubusercontent.com/115534676/230283388-0df23bf2-5d5c-4585-ae7f-840bd3ad77d9.png)
 
 
-##VERIFYING PRIMARY-KEY
+## VERIFYING PRIMARY-KEY
 ![Screenshot 2023-04-08 081628](https://user-images.githubusercontent.com/115534676/230700454-2657d3cf-98ff-4ab8-af59-960b042b8445.png)
 
 ## RESULT
