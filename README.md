@@ -53,7 +53,7 @@ admin.site.register(Student,StudentAdmin)
 
 
 ##VERIFYING PRIMARY-KEY
-![web django users](https://user-images.githubusercontent.com/115534676/230283435-fe591ea8-0fca-40f2-8895-dec9eb75c792.png)
+![Screenshot 2023-04-08 081628](https://user-images.githubusercontent.com/115534676/230700454-2657d3cf-98ff-4ab8-af59-960b042b8445.png)
 
 ## RESULT
 A Django application has been created that can be used to store and retrieve data from the database using Object Relational Mapping(ORM).
